@@ -6,13 +6,13 @@
 1. Download source code into your local machine.
 
 2. Install following python packages.
-- pyqt5
-- selenium
-- threading
-- random
+    - pyqt5
+    - selenium
+    - threading
+    - random
 
-You can install above packages using pip.
-ex : pip install package_name
+            You can install above packages using pip.
+            ex : pip install package_name
 
 3. Run application following instructions.
-python main.py
+    python main.py
