@@ -12,6 +12,7 @@
     - random
 
         You can install above packages using pip.
+        
             ex : pip install package_name
 
 3. Run application following instructions.
